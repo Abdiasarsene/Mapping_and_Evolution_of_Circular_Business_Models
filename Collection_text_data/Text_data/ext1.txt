@@ -1,0 +1,723 @@
+Institute of Systems Sciences, Innovation and Sustainability, 
+Institute of Systems Sciences, Innovation and Sustainability Reports #8 
+Institute of Systems Sciences, Innovation and Sustainability Reports are a publication 
+platform of the Institute of Systems Sciences, Innovation and Sustainability Research (ISIS), 
+Publisher: Institute of Systems Sciences, Innovation and Sustainability Research, Merangasse 
+Institute of Systems Sciences, Innovation and Sustainability Reports receive limited review 
+by the editors, by the Institute of Systems Sciences, Innovation and Sustainability Research 
+Business Models for the Circular Economy: Developing a typology based on existing literature .......... 3 
+The role of circular business models (CBMs) in creating sustainable prosperity.................................. 14 
+A Typology of customer value creation in circular business models .................................................... 21 
+Quick scan for the social impact of reuse scenarios in a circular economy .......................................... 23 
+Unfolding challenges of business model innovation towards circular economy: The case of fashion 
+Modelling interconnected business models in the circular economy value chain: The story of portable 
+Transition to Business Models for Sustainability:  Link between decision-making in the context of 
+sustainability management to changes in business models ................................................................. 32 
+sustainability considerations ................................................................................................................. 35 
+A Sustainable Business Model Pattern Language: 45 Patterns to Support Sustainability-Oriented 
+The Roles of Business Models in Sustainability Transitions: Car Sharing in Sydney ............................. 72 
+The missing link in business models for sustainability? Lessons from the sharing economy ............... 88 
+Investigating the relationship between sustainability and business model innovation in the context of 
+Managing sustainability-oriented business model innovations: A global perspective ......................... 99 
+How to facilitate social entrepreneurship for developing circular economy into territories? Feedbacks 
+value transactions fostering sustainability .......................................................................................... 134 
+Transition of business models towards business models for sustainability:   Insights from four 
+The impact of digitalization on business models: An analysis from a sustainability point of view .... 163 
+Value Creation and Circular Business Models: What makes a circular business model circular? ...... 196 
+Crafting a Sustainable Business: Applying the Circular Economy and Experience Economy to the 
+Barriers to new Business Model Innovation in the context of the Circular Economy - a literature 
+circumstances. The aim of sustainability stays in the centre so that new business models 
+interdisciplinary approaches, on sustainability and on social responsibility, is proud to host 
+many countries around the globe). Reverting this decline and supporting sustainability 
+political domains. For example, the circular economy emphasises the thrifty use of materials 
+generation of new business models that foster sustainability, social inclusion, and circularity. 
+Canvas Model” by Jan Jonker, or the book “Business Models for Sustainability” by Peter 
+SustainAbility. Recently, this community has also found new platforms, besides online 
+Business Models for the Circular Economy: 
+Stimulating a transition towards a circular economy (CE) is becoming more and more the 
+Transition to a circular economy 
+materials or built in sustainability in terms of efficient left alone cyclical use of commodities 
+Circular business models 
+Circular business models (CBM) are based on the premise of either fully or partially closing 
+time leading to value-cycles whereby CBMs promise to contribute to sustainability which can 
+stipulating a clear starting point of the (inter) organizational challenges a circular economy 
+Ellen MacArthur Foundation (2015). Growth within: a circular economy vision for a 
+Institute of Systems Sciences, Innovation and Sustainability Research, 
+ideas to achieve resource and energy efficiency, and ultimately aim for a circular economy. 
+Scheffran (Eds.), Handbook on Sustainability Transition and Sustainable Peace (pp. 
+The role of circular business models (CBMs) 
+Circular Economy, Social Value Creation, Flourishing, Quality of Life, Social Justice 
+The relationship between circular business models (CBMs) and sustainable business models 
+(Bocken et al. 2014). More recently, the role of circular economy (CE) as a new paradigm for 
+sustainability has been explored (Geissdorfer et al. 2017).  
+arguments that equating sustainability to CE, without such considerations, runs the risk of 
+reducing sustainability to material efficiency at the expense of broader ideals of equity, 
+sustainable business models in general and circular business models in order to address the 
+sustainable business model archetypes. Journal of Cleaner Production, 65, 42-56. 
+Sustainability: Key Issues. Routledge: EarthScan, pp.219-239.  
+Ehrenfeld, J.R. (2004) Can Industrial Ecology be the “Science of Sustainability”? Journal of 
+Ehrenfeld, J.R. & Hoffman, A.J. (2013) Flourishing: A Frank Conversation About Sustainability. 
+Geissdoerfer, S, Bocken, N., Hutink, E. (2017) The Circular Economy – A new sustainability 
+Gregson, N., Crang, M., Fuller, S. and Holmes, H. (2015) Interrogating the Circular Economy: 
+Over the last decade, the concept of a circular economy, an industrial economy that is 
+and Bocken, 2017). Although the literature on circular economy and circular cities stresses 
+literature on circular economy, sustainable and collaborative business modelling and value 
+conditions for implementing sustainability-oriented innovations (Boons and Lüdeke-Freund, 
+towards sustainable, social and circular business models (e.g. Yunus, Moingeon and 
+Lehmann-Ortega, 2010) and circular business models. These business model definitions and 
+The preliminary results show that participation in projects for a circular economy is 
+The paper contributes to the business modelling and circular economy literature by 
+to develop sustainable business model archetypes. Journal of Cleaner Production, 65, 
+business model strategies for a circular economy. Journal of Industrial and Production 
+Geissdoerfer, M., Savaget, P., Bocken, N. M., & Hultink, E. J. (2016). The Circular Economy–A 
+new sustainability paradigm?. Journal of Cleaner Production. 
+Ghisellini, P., Cialani, C., & Ulgiati, S. (2016). A review on circular economy: the expected 
+for Shared Value: Main Report. Cape Town: Network for Business Sustainability South-
+and sustainability innovations. International Journal of Technology Management, 22, 
+Schaltegger, S., Lüdeke-Freund, F., & Hansen, E. G. (2012). Business cases for sustainability: 
+the role of business model innovation for corporate sustainability. International 
+Su, B., Heshmati, A., Geng, Y., & Yu, X. (2013). A review of the circular economy in China: 
+circular business models 
+from customers for sustainability-related business practices, redefining value creation in the 
+framework of circular business models becomes more than relevant for businesses. 
+of customer value creation are emphasized in circular business models. More specifically, 
+circular business models recent literature outlines the main dimensions of CBM and helps 
+creation and circular business models - helps developing a theoretical framework (circular 
+customer value creation) that is then applied to 65 cases of circular business models drawn 
+from existing literature and representing the diversity of circular business models (in 6 
+circular economy, in order to validate the preliminary conclusions of the research. Five cases 
+entrepreneurs active in the circular economy to clarify their circular value proposition. At 
+scenarios in a circular economy 
+Social Impact, Quick Scan, Reuse, Social Life Cycle Assessment, Circular Economy  
+For the transition to a more circular economy, it is important to know how the cycling of 
+for social impact of a circular economy case. 
+which could contribute to optimize social impact assessment in circular economy business 
+improving the usability of the SLCA in a more circular economy. 
+Ellen MacArthur Foundation (2013). Towards the circular economy. Economic and business 
+business model strategies for a circular economy. Journal of Industrial and Production 
+Centre, Institute for Environment and Sustainability, Publications Office of the 
+innovation towards circular economy: The 
+Circular economy, business models, closed loop, fashion industry, qualitative case study 
+of circular economy has  recently gained extensive attention (EMF 2012; 2013), even though 
+loops” or “circular economy.“ 
+while aspects  related  to circular economy principles,  such  as  product take-back,  reuse  
+recycling-focused circular economy strategy in an existing business model. The paper is 
+At a micro level, the findings conclude that in order to integrate circular economy 
+circular business models require an extended understanding of customers where it is 
+and materials. Finally, integrating circular economy strategies into business models may 
+and empirical insights from the field of business model innovation and circular economy 
+EMF (2012), Towards the Circular Economy: Economic and Business Rationale for an 
+EMF (2013), Towards the Circular Economy. Opportunities for the Consumer Goods Sector, 
+models in the circular economy value 
+Circular economy is a new economic model that 
+2016; Lieder and Rashid, 2016). Sustainability on 
+2015). This means that circular economy is hardly 
+sustainability. We divide circular economy value chain into four phases: 1) design and 
+different value chain positions and implications of circular economy to each position’s offer 
+circular economy principles in the industry value chain causes serious environmental and 
+study the implications of circular economy principles to business models of different actors 
+interconnected business models in the circular economy value chain. Managerial 
+implications indicate that even product markets have become global, the circular economy 
+and reuse. Policy implications indicate that circular economy is hardy possible without policy 
+economy value chain. We argue that for circular economy to materialize requires 
+Ghisellini, P., Cialani, C., and Ulgiati, S. (2016). A review on circular economy: the expected 
+Lewandowski, M. (2016). Designing the Business Models for Circular Economy—Towards the 
+Conceptual Framework. Sustainability 8(1): 43-71. 
+Lieder, M., and Rashid, A. (2016). Towards circular economy implementation: a 
+Sustainability: 
+of sustainability management to changes in 
+Institute for Systems Sciences, Innovation and Sustainability Research, 
+Sustainability, 
+Sustainability Management, Survey 
+organizations. Companies are challenged by various stakeholders to address sustainability 
+Business Models for Sustainability (BMfS) is a term used for business models that 
+integrate sustainability aspects in the core of organizations. While there is an increasing 
+encourage the change towards sustainability. 
+Decision-making support systems as well as sustainability management tools support key 
+information and time. Previous research shows some links between the sustainability 
+awareness of key employees and the application of sustainability management tools in 
+Sustainability. Insights about corporate sustainability management, such as addressed 
+topics, causes of concerns about sustainability issues and real life praxis in companies can 
+responsibly for sustainability topics in the company.  
+A survey by Schaltegger et al. has described the status quo of corporate sustainability 
+international researchers, they have compared the sustainability management in 11 
+corporate sustainability management in Austria. Additionally, questions identifying change 
+enable analysis of relation between decision-making for sustainability, particular corporate 
+sustainability management practices and business model transformation for sustainability. 
+This first-time corporate sustainability survey in Austria will address large companies. In 
+addressing range of sustainability activities, such as interaction with stakeholders, 
+knowledge and use of sustainability management tools, as well as the questions that aim at 
+Sustainability/CSR managers or persons that have main responsibility for the sustainability 
+This study is a contribution to attempts to describe status quo of corporate sustainability 
+companies that undergo business model change for sustainability, to further explore, 
+outcomes of sustainability management, leading to changes in business model, depending 
+on the existence or non-existence of the sustainability/CSR manager. 
+aimed to reach some sustainability level and adjusted their business model to serve this 
+sustainability performance is outcome of such efforts.  
+companies that have undergone transformation for sustainability to identify the critical 
+Hörisch, J., Johnson, M.P. & Schaltegger, S., 2015. Implementation of Sustainability 
+Schaltegger, S. et al., 2013. International Corporate Sustainability Barometer. A Comparative 
+http://www2.leuphana.de/csm/InternationalCorporateSustainabilityBarometer.pdf 
+Schaltegger, S. et al., 2012. Corporate Sustainability Barometer 2012: Praxisstand und 
+ Companies’ perspective to sustainability 
+Finnish Forest-Based Sector, New Business Models, Sustainability, Bioeconomy, Circular 
+emerging economies, digitalization, climate change, increasing sustainability goals and 
+Environmental, social and economic sustainability are important drivers for the 
+bioeconomy and circular economy businesses are associated with increased sustainability 
+transforming FBS companies. Further, the study focuses on the sustainability considerations; 
+e.g. how sustainability principles are integrated in the business models, which sustainability 
+relation to bioeconomy and circular economy goals which are linked with the sustainability 
+Sustainable business model archetypes introduced by Bocken et al., 2014 and Architecture, 
+principles and components in business models for sustainability presented by Wells, 2016) 
+develop sustainable business model archetypes. Journal of Cleaner Production, Vol. 65, 
+Ghisellini, P., Cialani, C., Ulgiati, S. (2016). A review on circular economy: the expected 
+Wood-Based Bioeconomy: A Scenario Analysis for Germany. Sustainability, Vol. 8, No. 
+Pfau, S. F., Hagens, J. E., Dankbaar, B., Smits, A. J. M. (2014). Visions of Sustainability in 
+Bioeconomy Research. Sustainability, Vol. 6, No. 3, pp. 1222-1249. 
+Pätäri S., Tuppura A., Toppinen A., Korhonen J. (2016). Global sustainability megaforces in 
+Näyhä, A. & Horn, S. (2012). Environmental sustainability – aspects and criteria in forest 
+biorefineries. Sustainability Accounting, Management and Policy Journal, Vol. 3, No. 2,  
+University of Graz, Institute for Systems Sciences, Innovation & Sustainability 
+Hopkins, E.A., Read, D.C. & Goss, R.C., 2016. Promoting sustainability in the United States 
+45 Patterns to Support Sustainability-
++Supported by Centre for Sustainability Management, Leuphana University, Germany and Copenhagen Business 
+used to support sustainable business model innovation (SBMI) and sustainability innovation 
+business cases for sustainability and describes the core of a solution that can be repeatedly 
+Sustainability. London: SustainAbility.  
+sustainability: A practice-based approach introducing business model archetypes, 
+II), in terms of innovation, technology, sustainability as well as cooperation with science 
+inclusive value creation and sustainability business models to mitigate social exclusion in 
+perspective, inclusive strategies also foster sustainability. In the literature, inclusive or frugal 
+innovation is somehow related with sustainability – often combining social and economic 
+refer to sustainability, but do not have to. Rosca et al. (2016) argue for a conceptual 
+separation of frugal innovation, sustainability and business model and stress inclusive 
+indirect effects, and only few direct contributions to the sustainability goals. Overall, the 
+sustainability goals are not aimed at directly and comprehensively. Several limitations are 
+single period, so that mid- or long-term effects of the respective sustainability effects of the 
+Sustainability on Corporate Behavior and Performance. Harvard Business School 
+Leal Filho, Walter. (2000). Dealing with misconceptions on the concept of sustainability. 
+International Journal of Sustainability in Higher Education, v. 1, n. 1, p. 9-19. 
+business in sustainability transitions. Journal of Cleaner Production, 45, pp. 20-28. 
+Lozano, Rodrigo. (2015). A holistic perspective on corporate sustainability drivers. Corporate 
+LÜDEKE-FREUND, Florian. (2009). Business model concepts in corporate sustainability 
+contexts: From rhetoric to a generic template for 'business models for sustainability'. 
+Centre for Sustainability Management (CSM), Leuphana Universität Lüneburg. 
+Sustainability Origins, Present Research, and Future Avenues. Organization & 
+Strategy, Business model, stakeholder sustainability 
+complex. Among this complexity the topic of sustainability (Amini and Bienstock, 2014; 
+from these premises it’s easy to assert that, nowadays, sustainability and, within the wide 
+sustainability borders, the set of relationships a firm has built with its stakeholders (Freeman 
+between firm and stakeholders, i.e. between strategy and sustainability.For the aim of this 
+corporate sustainability with strategy (Baumgartner 2014; Baumgartner and Rauter 2017; 
+are experiencing several attempts to integrate strategy and sustainability (Adams 2015; 
+Amini, M., & Bienstock, C. C. (2014). Corporate sustainability: an integrative definition and 
+Baumgartner, R. J. (2014). Managing corporate sustainability and CSR: A conceptual 
+Baumgartner, R. J., & Rauter, R. (2017). Strategic perspectives of corporate sustainability 
+Baumgartner, R. J., and Rauter, R. (2017). Strategic perspectives of corporate sustainability 
+Engert, S., & Baumgartner, R. J. (2016). Corporate sustainability strategy–bridging the gap 
+contributions to Corporate Sustainability. Journal of Cleaner Production, 106, 430-442.  
+developing business models for sustainability. Journal of Cleaner Production, 140, 144-
+Challenges They Present to Corporate Sustainability. Organization & Environment, 
+Centre for Industrial Sustainability, Institute for Manufacturing 
+stakeholders of business model transformations. Integrating sustainability into business 
+companies to evaluate and design the business case for sustainability successfully 
+innovation for sustainability (Evans et al., 2017), sustainable value creation (Hart and 
+and ‘sustainability’.  
+2017. Business model innovation for sustainability: Towards a unified perspective for 
+Schaltegger, S., Lüdeke-Freund, F. and Hansen, E.G., 2012. Business Cases for Sustainability: 
+The Role of Business Model Innovation for Corporate Sustainability. International 
+Stubbs W. and Cocklin C. 2008. Conceptualizing a ‘sustainability business model’. 
+sustainability, Research-Technology Management, Vol. 60, No. 3, pp.30-39. 
+Sustainability Transitions: 
+Business Model Innovation, Sustainability, Transition, Car Sharing, Up-Scaling 
+mobility regime. Despite whether its sustainability will be proven or not, car sharing business 
+sustainability, 
+The concept of a circular economy (CE) has become increasingly popular in the recent years 
+Building up a circular economy is a complex process that involved various players and 
+Bonciu, F., (2014). The European Economy: From a Linear to a Circular Economy. Romanian 
+Ellen Macarthur Foundation (2015). ‘Delivering the Circular Economy. A Toolkit for Policy-
+Ellen Macarthur Foundation, (2012). Towards the Circular Economy. Retrieved via: 
+European Commission (2015). Closing the loop - An EU action plan for the Circular Economy. 
+Ghisellini, P., Cialani, C., & Ulgiati, S. (2014). A review on circular economy: The expected 
+Jawahir, I.S.  and Bradley, R., (2016). Technological Elements of Circular Economy and the 
+Lieder, M., and Rashid, A. (2015). Towards circular economy implementation: A 
+and circular economy: Alternative concepts for trans-disciplinary research. 
+Witjesa, S. and Lozano, R. (2016).Towards a more Circular Economy: Proposing a framework 
+Yap, N.U., 2005. Towards a circular economy: progress and challenges. Green Manag. Int. 50, 
+Yuan, Z., Bi, J., Moriguichi, Y., 2006. The circular economy: a new developmentstrategy in 
+Zhu, D.J. (1998). Sustainable development calls for circular economy. Science and 
+Scholars regard the implementation of sustainability-oriented innovations  as a business 
+explanation building (Yin, 2013). We build on three cases concerning sustainability-oriented 
+Schaltegger, S., Lüdeke-Freund, F., & Hansen, E. G. (2012). Business cases for sustainability: 
+the role of business model innovation for corporate sustainability. International 
+Managing organizational change for sustainability most probably is one of the biggest 
+become a critical topic for many organisational sustainability development programs. In 
+those organizations that aim for sustainability innovation, human resource management’s 
+sustainability oriented innovations. 
+major concern for sustainability, sustainable HRM aims to develop and rejuvenate human 
+to organizational sustainability is provided through HC management practices and the HRM 
+can also be in line with business model of the organization for sustainability (Schaltegger, 
+stages of the model, and almost absent for the last stage. Building sustainability oriented 
+Buller, P. F.,& McEvoy, G. M. (2016). A model for implementing a sustainability strategy 
+sustainability and HRM: A comparative study of sustainability reporting practices by 
+Klewitz, J.,& Hansen, E.G. (2014). Sustainability-oriented innovation of SMEs: a systematic 
+Millar, C., Hind, P. & Magala, S., 2012. Sustainability and the need for change: organisational 
+Schaltegger, S.,Hansen, E. G., & Lüdeke-Freund, F. (2016). Business models for sustainability: 
+sustainability? 
+sustainability (Martin, 2016). By enabling consumers to conveniently and affordably access 
+operate what appear to be business models for sustainability (BMfS).  
+organizations’ sustainability strategies (Lüdeke-Freund et al., 2016). Applying Schein’s (2010) 
+analysis finds differences in their business models and sustainability outcomes. The findings 
+sustainability, with consequences. I also detect a strong connection between founders’ 
+My results suggest that the sustainability impact of the sharing economy is contingent 
+Martin, C. J. (2016). The sharing economy: A pathway to sustainability or a nightmarish form 
+Business Model For Sustainability, Business Model Adaption, Business Model Spread, Solar 
+models and business models for sustainability, however, has often pleaded for a stable 
+adaption as well as the debate on bringing business models for sustainability to new 
+markets. Embedded in the business model for sustainability and business model innovation 
+sustainability (Jonker, 2016), this paper contributes both to collaborative value creation and 
+Roome N., & Louche C., 2016, Journeying Towards Business Models for Sustainability, 
+business models. Yet, extant literature on sustainable business models and sustainability-
+understanding of organizational transitions to sustainability, as it allows to explore how 
+model innovation for sustainability may coexist and interact within one organization.   
+affects a firm’s sustainability transition. Our study aims to contribute to the understanding of 
+business model innovation for sustainability, by exploring how a sustainability transition 
+Markard, J., Raven, R. and Truffer, B. (2012). Sustainability transitions: an emerging field of 
+Schaltegger, S., Ludeke-Freund, F. & Hansen, E. (2016). Business models for sustainability: A 
+sustainability and business model innovation 
+Sustainability, Business Model Innovation, Food Industry, Europe 
+Therefore, there is an increasing necessity to prioritize sustainability concerns, and ensure 
+the integration of sustainability into organisations’ business models. Such a prioritization and 
+improvements in terms of sustainability (Breuer and Lüdeke-Freund, 2017; Carayannis et al., 
+sustainability has the potential to inspire and drive business model innovation (Bocken et al., 
+Innovation and Sustainability at Enel, “we are not sustainable unless we innovate, and in 
+The current study aims to investigate the relationship between sustainability and 
+The overall results show that sustainability is slightly positively related to business 
+work in the field of sustainability and business model innovation, especially in the context of 
+Organizational Sustainability. The Journal of Technology Transfer, 40(1), pp.85–104.  
+Business Model Innovation, Corporate Sustainability, and Organisational Values within 
+business models for sustainability. Journal of Cleaner Production, 140, pp.144–154.  
+Schaltegger, S., Lüdeke-Freund, F. & Hansen, E.G., 2012. Business cases for sustainability: the 
+role of business model innovation for corporate sustainability. International Journal of 
+models or business models for sustainability. Existing theory is divided in its view on the 
+research on the related concepts of corporate sustainability and corporate (social) 
+approach. Research addressing the micro-foundations of corporate sustainability is emerging 
+managers interpret the ambiguous cues from their organizational context on sustainability 
+issues from a cognitive perspective. However, research on corporate sustainability has been 
+sustainability 
+Recently, there has been some research addressing corporate sustainability from a 
+to sustainability arise and are aggregated throughout the organization, how managers sense 
+operating, and the corporation proclaims a shared value strategy for sustainability. We 
+Managing sustainability-oriented business 
+at driving and responding to society’s sustainability demands. Among these, business models 
+are increasingly recognised as having an important role to play. Sustainability-oriented 
+address sustainability issues along supply chains, whether regional or international. The 
+sustainability demands. In order to assess how successful they are in responding to these 
+examples of a range of sustainability-oriented business models. Business models were 
+The study shows that many sustainability-oriented innovations, within both semi-
+society (Schaltegger and Wagner, 2011). Sustainability-driven entrepreneurs not only create 
+when connecting with customers who had limited awareness of sustainability issues. The 
+Schaltegger S and Wagner M. 2011. Sustainable entrepreneurship and sustainability 
+current business models towards new business models (NBMs) that put sustainability at the 
+Sustainability. Journal of Cleaner Production, 140, 144-154. 
+developing circular economy into territories? 
+The shift toward a circular economy is initiated at different scales by a strong diversity of 
+repair café, resource-based local networks…). The proximity between circular economy and 
+to foster circular economy into territories and discuss about the support that could offer 
+entitled RETRACE (interregeurope.eu/retrace/), which aims to promote circular economy 
+policies for circular economy within a systemic vision that will be analyzed and 
+new policies, rules and type of supports in direct relation with circular economy. Currently, 
+ An analysis of actual political instruments for social and circular economy in Nouvelle 
+visible the needs for the territory and develop local circular economy. In France, the 
+develop sustainable business model archetypes. J. Cleaner Production. 
+sustainability 
+used to foster material and social sustainability. Exploring this idea, we touch upon the 
+value creation in business models. From a sustainability perspective, the core of this 
+values such as sustainability, inclusivity and circularity yet it has hardly been touched upon. 
+The idea of sustainability addresses a long-standing debate concerning the interactions, 
+transactions in everyday economic life. At best sustainability is an add-on in these models. 
+Sustainability can be addressed from a variety of perspectives. Here the transactional 
+the sustainability debate i.e., natural, human, social, financial, and constructed capital. These 
+sustainability debate, known as ‘weak sustainability’. Basically, the critique articulated here 
+operationalise the idea of a business model based on strong sustainability necessitates 
+forms of multi-value transactions. The idea of ‘strong sustainability’ feeds into a new 
+fostering strong sustainability providing an alternative way of shaping and guiding 
+in business models. This builds on the premise of strong sustainability. Yet replacing the 
+sustainability? How do transactions based on various capitals unfold? Ultimately this raises 
+Gutés, M. C. (1996). The concept of weak sustainability. Ecological Economics, 17(3), 147–
+induce more travelling, in this way even harming sustainability. However if sharing platforms 
+questionnaire with multi-item construct measurements for perceived sustainability, 
+considered sustainable since sustainability seems to have a rather negative instead of 
+environmental ones. This is necessary to evaluated all the aspect of sustainability about the 
+Institute of Systems Sciences, Innovation and Sustainability Research, 
+collaboration. Accountancy & Bedrijfskunde, 4(SI Sustainability and Entrepreneurship), 
+& Saija, Pathways  to  Environmental  Sustainability: Methodologies and Experiences 
+Developing business models for sustainability is a means to conceptualise transforming our 
+models at sufficient speed to address sustainability challenges, suggesting social science 
+research on sustainability is a limiting factor (Agyeman, 2011). Moreover, to accelerate the 
+In this abstract we argue that to catalyze innovation and embed sustainability, 
+suggest that sustainability pioneers like Adnams, have direct and indirect value creation 
+interactions with local SME’s via initiatives like their sustainability supply-chain initiative (SSI) 
+Adnams’ use of their influence as a sustainability pioneer to shape regional investment 
+leadership in regional initiatives contributes to mainstreaming of sustainability values 
+local SMEs, who incorporate sustainability values in their core business models, Adnams 
+in. Adnams’ sustainability values (cultural resources) reinforces remaining in business 
+models based on shared  sustainability values. Thus Adnams’ behaviour was constrained by 
+Agyeman, J. (2011). Foreward: Joined-up Research. Researching Sustainability: A Guide to 
+Avelino, F. & Rotmns, J. (2011). A dynamic conceptualization of power for sustainability 
+business models for sustainability:  
+Business Model, Business Models for Sustainability (BMfS), Business Model Innovation 
+soil as well as social grievances, more and more attention is paid to sustainability and 
+sustainability into the company’s business model is meaningful.  
+are changing due to the rising importance of sustainability and what are influencing factors 
+companies in the transition towards a business model for sustainability (BMfS) and what are 
+sustainability to the concept of business models in order to deal with BMfS. The empirical 
+successfully have changed their business model into a business model for sustainability. The 
+sustainability within their business model and if their business model changed significantly 
+from a conventional one towards a business model for sustainability. Whereby about 13 
+sustainability is a slow and sometimes difficult process, but according to all interviewees it is 
+sustainability in their business model and into their core business. It can be concluded that 
+business models for sustainability are a promising concept for the future, but further 
+model for sustainability is possible for different types of companies, either service or 
+to develop sustainable business model archetypes. Journal of cleaner production,Vol. 
+Dyllick, T., Hockerts, K. (2002). Beyond the business case for corporate sustainability. 
+for business in sustainability transitions. Journal of Cleaner Production. Vol. 45, pp. 20-
+Sustainability. Knowledge Collaboration & Learning for Sustainable Innovation, R. 
+value with sustainability: New business models in Austria. Sustainable Innovation 
+business models for sustainability. Journal of Cleaner Production. XXX. (2015). pp.1-11. 
+sustainability: Capturing the relationship between sustainability performance, business 
+Sustainability: The Integration of Social, Environmental and Economic Performance. 
+Schaltegger, S., Lüdeke-Freund, F. & Hansen, E. G. (2016). Business Models for Sustainability: 
+Wells, P.E., (2013). Business Models for Sustainability. Edward Elgar Publishing, Inc.. 
+An analysis from a sustainability point of view 
+University of Graz, Institute of Systems Sciences, Innovation and Sustainability Research 
+Digitalization, Business Model Innovation, Sustainability, Smart Grid 
+sustainability management is important as a core task, in managing rapid change. If there is 
+ Is sustainability, in context with digitalization, a driver for the change of business 
+whether sustainability plays a role for the actors in the energy sector, in shaping their 
+Austrian electric utilities are changing their business models. Energy, Sustainability and 
+Facing? Sustainability, 8(8), 726. 
+Facing?. Sustainability, 8(8), 726. 
+New Business Model, Circular Economy, Steel Reuse, Supply, Construction and Demolition 
+creation is getting stronger. Therefore, the transition from linear to circular economy is 
+from the construction and demolition industry or with experts about circular economy. 
+Ellen MacArthur Foundation. (2013). Towards the circular economy.  
+towards a circular economy (Jonker 2014; Jurriëns, 2015). The key issue in this circular 
+Ellen MacArthur Foundation. (2013). Towards the circular economy. Retrieved from 
+Sustainability, New Business Model, Value Creation, Construction Industry, Steel Reuse 
+With a view to sustainability, companies are realizing their need to create a win-win 
+circular economy. The research question is: How should the process be arranged to match 
+shelves and it will bring us one step closer to a circular economy.  
+Ellen MacArthur Foundation. (2013). Towards the circular economy. Retrieved from 
+developing business models for sustainability. Journal of Cleaner production, 140, 144-
+Sustainability: Origins, Present Research, and Future Avenues. Organization & 
+recycling to the reuse of construction steel to contribute to the circular economy. There are two parts in this 
+Social entrepreneurship is often perceived as a panacea for the complex sustainability issues 
+IS businesses to truly be sustainable, sustainability has to be a core part of the BM and a 
+tool for business model innovation in a circular economy. Delft University of 
+Sustainable Entrepreneurship, Business Models for Sustainability, Business Model 
+In a modern age where sustainability has become an issue at the forefront of our 
+effective behavioural change of the target demographic in favour of sustainability. The 
+versions of business models for sustainability (Joyce et al. 2015; Upward & Jones 2016) and 
+business model types like sustainability concepts. Evaluating business plans, which were 
+expression of "new business model", in reference to circular economy and the CSR Europe 
+develop sustainable business model archetypes, Journal of Cleaner Production 65: 42-
+Eccles, R. G., & Saltzman, D. (2011). Achieving sustainability through integrated reporting. 
+Thomson, I. (2015). ‘But does sustainability need capitalism or an integrated report’ a 
+Tudor-Tiron, A., & Dragu, I. (2014). From Sustainability to Integrated Reporting - The Political 
+Sustainability is increasingly recognized as a pressing problem facing the modern world. 
+Growing social and political demands with regard to sustainability force businesses to 
+An aspect of sustainability which attracted limited interest is financial sustainability. For 
+organizations promoting sustainability in its various aspects. It should also encompass 
+develop sustainable business model archetypes, Journal of Cleaner Production 65: 42-
+Eccles, R. G., & Saltzman, D. (2011). Achieving sustainability through integrated reporting. 
+Thomson, I. (2015). ‘But does sustainability need capitalism or an integrated report’ a 
+Tudor-Tiron, A., & Dragu, I. (2014). From Sustainability to Integrated Reporting - The Political 
+Value Creation and Circular Business Models: 
+Circular Business Models, Umbrella Concepts, Resource-Life-Extending Strategies, Scale-
+elements and circular business models (CBMs). With this, we seek to bring clarity to the 
+elements and circular business models (CBMs). With this, we seek to bring clarity to the 
+ways of framing both circular economy (CE) (see Brennan et al. (2015); Blomsma and 
+have been an investment in business models which underpin the circular economy’s 
+Similarly to business models, the concepts of circular economy and circularity can be applied 
+models, linear business models with circular elements and circular business models which 
+antecedents of the circular economy can be traced back to 1800’s (Brennan et al., 2015), 
+the circular economy as an umbrella concept emerges around 1985. Moreover, the business 
+relationship between circular business models and sustainable business models is contested 
+Our scoping study illustrates that in addition to the use of the terms “circular economy 
+business models” or “circular business models” there are also a range of broadly 
+Blomsma, F. and Brennan, G. (2017) The emergence of the circular economy: a new framing 
+sustainable business model archetypes. Journal of Cleaner Production, 65, 42-56. 
+solutions: Closing Loops & the Circular Economy, in Kopnina, H. and Shoreman-Ouimet, 
+E. (Eds). Sustainability: Key Issues. Routledge: EarthScan, pp.219-239.   
+Geissdoerfer, S,  Bocken, N., Hutink, E. (2017) The Circular Economy – A new sustainability 
+Lewandowski,M. (2016). Designing the Business Models for Circular Economy—Towards the 
+Conceptual Framework. Sustainability. 8, 43. 
+Implementing Triple Bottom Line Sustainability into Global Supply Chains. Sheffield: 
+management linking society, chain and actor level. Sustainability. 3 (4), 678–691.  
+Tukker, A. (2004) Eight types of Product Service System: Eight Ways to Sustainability? 
+Applying the Circular Economy and Experience 
+Aalborg Akvavit, Circular Economy, Experience Economy, Industrial Business Transformation, 
+The Cloud City project is based on the principles of sustainability, collaboration and 
+potential stakeholders, areas in the Spirit Center where principles of circular economy could 
+the circular economy covers the value creation and capture, it is not able on itself to 
+Business sustainability (Kim, Yoon & Shin 2015). The Spirit Center is designed to co-create 
+production involves certain circular economy practices, like recirculating organic material, 
+The relation of those three elements with the circular economy values and practices, 
+sustainability values drive the business. 
+The Spirit Center provides an opportunity to complement the circular economy with the 
+industrial sector, can be used to exploit the synergy between the circular economy and the 
+circular economy apt to be turned into physical and conceptual experiences? For such 
+sustainability. 
+business model strategies for a circular economy. Journal of Industrial and Production 
+to develop sustainable business model archetypes. Journal of Cleaner Production, 65, 
+Ellen MacArthur Foundation. (2013). Towards the circular economy: Economic and business 
+European Commission. (2014). Scoping study to identify potential circular economy actions, 
+Heinberg, R. (2010). What is Sustainability? The Post Carbon Reader Series: Foundation 
+Institution of Civil Engineers (ICE) (2015). Environmental sustainability of European cities. 
+http://www.rpsgroup.com/Ireland/News/pdf/Environmental-Sustainability-of-
+Lamberton, G. (2005). Sustainability accounting—a brief history and conceptual framework. 
+Local Governments for Sustainability European Secretariat (2016). The Basque Declaration. 
+Network for Business Sustainability (2012). Innovating for Sustainability: a guide for 
+executives. Network for Business Sustainability. Ontario, Canada. p. 6. 
+Innovation in the context of the Circular Economy - a 
+Circular Economy, Business Model Innovation, Circular Innovation, Circular Business Models, 
+The shift towards the circular economy entails business model innovation as essential 
+with barriers to circular economy derived from two literature reviews. Nine relevant barriers 
+business models towards the circular economy. 
+The circular economy (CE) theoretically gives companies the chance to foster economic 
+(Shahbazi et al., 2016) and support their ambition to shift towards circular business models. 
+Economy. The Role of Dutch Logistics Industries and Governments”, Sustainability, 
+Ellen MacArthur Foundation (2015), Towards a Circular Economy: Business Rationale for an 
+Hall, J. and Wagner, M. (2012), “Integrating Sustainability into Firms' Processes. Performance 
+Lewandowski, M. (2016), “Designing the Business Models for Circular Economy—Towards 
+the Conceptual Framework”, Sustainability, Vol. 8 No. 1, p. 43. 
+awareness and performance for promoting circular economy in China. A case study 
+business model innovation in a circular economy”, Industrial Ecology, TUDelft, 2014. 
+Murray, A., Skene, K. and Haynes, K. (2015), “The Circular Economy. An Interdisciplinary 
+on implementation of waste-to-energy (WTE) supply chain for circular economy 
+Redistributed Manufacturing to a Circular Economy”, in Setchi, R., Howlett, R.J., Liu, Y. 
+Renswoude, K. van, Wolde, A.T. and Joustra, D.J. (2015), Circular Business Models. Part 1: An 
+of Circular Economy Business Models by Small and Medium-Sized Enterprises (SMEs). 
+Barriers and Enablers”, Sustainability, Vol. 8 No. 11, p. 1212. 
+Webster, K. (2015), The circular economy - a wealth of flows, 1st ed., Ellen MacArthur 
+officials’ awareness on circular economy development in China. Based on municipal 
+Literature for Circular Economy Review 
+Economy: The Role of Dutch Logistics Industries and Governments. Sustainability 8 (7), 
+implementation of waste-to-energy (WTE) supply chain for circular economy system: A 
+Redistributed Manufacturing to a Circular Economy. In: Setchi, R., Howlett, R. J., Liu, Y. 
+Riisgaard, H., Mosgaard, M. & Zacho, K. O. (2016) Local Circles in a Circular Economy – the 
+Rizos, V., Behrens, A. & van der Gaast, W. et al. (2016) Implementation of Circular Economy 
+Enablers. Sustainability 8 (11), 1212. 
+Sustainability 7 (2), 1957–1969. 
+enterprises in a pathway leading to a dead end. In that situation, sustainability is radically 
+Research and practice on business sustainability is mainly framed using an instrumental logic 
+that asks how can businesses benefit from incorporating sustainability issues into their 
+sustainability prove the scientific and practical dominance of the economic domain 
+focus on the financial outcomes of sustainability activities rather than on the impacts on 
+Hahn et al. 2010; Margolis & Walsh 2003). Thus, current sustainability management 
+2016; Whiteman et al. 2013). Besides, researchers in the field of strategic sustainability 
+management argue that the reason for the limited impact and effectiveness of sustainability 
+management approaches is the lack of strategic orientation of sustainability practices and 
+relevance and integration of sustainability management in the sense that both businesses 
+societal needs in the long run. Consequently, in order to ensure that sustainability efforts on 
+activities need to be directly linked to global sustainability challenges and integrated into a 
+The importance of the private sector to successfully tackle sustainability challenges have 
+relevance of global sustainability challenges and assessing the attainment of the SDGs on a 
+national level (Muff, Kapalka, Dyllick 2017; Globescan & SustainAbility 2017). The Gap Frame 
+sustainability management (Globescan & SustainAbility 2017; BSR & GlobeScan 2016). Quite 
+sustainability activities. Accordingly, companies fail to meaningfully contribute to some of 
+society’s most pressing sustainability challenges. The pressure on the private sector to 
+a specific sustainability challenge. Therefore, the need to clarify what sustainable 
+which translates the SDGs on a global level into concrete sustainability topics on business 
+translator for companies to translate the global SDGs and to formulate sustainability topics 
+sustainability. By defining relevant sustainability challenges and taking them as a starting 
+receive different attention and relevance within organizations (Globescan & SustainAbility 
+problem solving so that it becomes necessary in order to address global sustainability 
+address global sustainability challenges can be developed. Taking SVCs as a starting point for 
+sustainability management. This process and the concrete business themes help companies 
+sustainability management. By translating SDGs into concrete sustainability topics for 
+against a principled definition of sustainability” (Broman & Robèrt 2015). Consequently, 
+resource and energy efficiency and concepts like the circular economy, optimized packaging 
+effectively address sustainability challenges.  “Reliable and affordable (basic) services” (see 
+addressing sustainability challenges and most importantly the identification of effective 
+Banerjee, S.B. (2011). Embedding sustainability across the organization: A critical perspective. 
+Baumgartner, R.J. & Rauter, R. (2017). Strategic perspectives of corporate sustainability 
+Bonini, S. & Görner, S. (2011). McKinsey Global Survey Results. The Business of Sustainability. 
+Typology From Business-as-Usual to True Business Sustainability. Organization & 
+Eccles, R.G., Ioannou, I. & Serafeim, G. (2014). The Impact of Corporate Sustainability on 
+Globescan & SustainAbility (2017). Evaluating Progress Towards The Sustainable 
+Hahn, T., Figge, F., Pinkse, J. & Preuss, L. (2010). Trade-Offs in Corporate Sustainability: You 
+Montabon, F., Pagell, M. & Wu, Z. (2016). Making Sustainability Sustainable. Journal of 
+Sustainability. Organization Science. 26 (2). p.pp. 531–549. 
+for Corporate Sustainability. Journal of Management Studies, 50(2), pp.307–336.   
+Planing, P. In Press. Business model innovation in a circular economy reasons for non-
+acceptance of circular business models. Open J. Bus. Model Innov. 
+New sustainability driven innovations are clearly needed to renew traditional sectors of 
+motivation towards sustainability among key construction value network actors.  
+wood material based multistory solutions and addressing sustainability any other than very 
+Comparison of Finland and the Netherlands. Sustainability 8: 1017. 
+Handbook of Technology and Innovation Management. John Wiley & Sons. 
+Business Models, Technology, Sustainability, Fuel Cell 
+provide solutions for sustainability matters. Further, new technologies show major influence 
+towards sustainable business models. However, sustainability is not an end in itself and 
+contribute towards sustainability. In that regard firms need business models that transform 
+One technology that shows potential for sustainability is the fuel cell. Using fuel cells, more 
+http://www.stechcapital.com/Sustainability.htm, Accessed 15.3.2017 
+business models for sustainability, in: Journal of Cleaner Production, Vol. 140, S. 144-
+Schaltegger, S., Hansen, E. G., Lüdeke-Freund, F. (2016): Business Models for Sustainability: 
+Geschäftsmodelle, Conference paper, 7th Congress on Sustainability Management for 
+This paper focuses on social enterprises which work to address sustainability related aspects 
+more direct approach, in order to address that sustainability related aspects, since they sits 
+electricity company for six consecutive years, and its commitment to the sustainability of the 
+develop sustainable business model archetypes. J. Clean. Prod. 65, 42-56.Boons, F., 
+When sustainability has to be implemented in business practice and management, new 
+(organizational innovation) to implement technologically-new business model archetypes 
+and sustainability innovations. International Journal of Technology Management, 
+network, Sustainability 
+Furthermore implications of new business models on sustainability and sustainable 
+digitalization might be one driver for sustainability. But so far it remains unclear whether 
+Business models for sustainability  
+community, dealing with business models for sustainability (BMfS). Similar to the business 
+sustainability, the social, environmental, and the economic dimension instead of focusing 
+communicating and governing sustainability within a company (Seele & Lock, 2017; 
+sustainability aspects of the respective business model.  
+Sustainability aspects 
+Sustainability aspects 
+sustainability.  
+Seele, P., Lock, I. (2017). The game-changing potential of digitalization for sustainability: 
+Wells, P.E., (2013). Business Models for Sustainability. Edward Elgar Publishing, Inc.. 
+and finally for sustainability issues.  
+Besides environmental and societal issues, business sustainability refers to “business 
+sustainability “helps describing, analyzing, managing, and communicating (i) a company’s 
+for shared value: Main Report. Network for Business Sustainability South Africa. 
+Information Systems for Environmental Sustainability. MIS Quarterly, 37(4), 1265–
+Sustainability. Organization & Environment, 29(3), 264–289.  
+Circular Economy, Organic Waste, Ecological Transition, Material Flow Analysis 
+however, a new and more ambitious package, the Circular Economy Package, including 
+Management to Circular Economy) underlines both the problem and a possible solution: In 
+EU average of 475 kg per person), the circular economy package introduces new challenges 
+and actions, such as Smart City Aalborg, the Sustainability Strategy and the Climate Strategy. 
+planned to close loops and promote zero-waste society. The principles of Circular Economy 
+To exemplify opportunities for embracing circular economy business models, we 
+organic waste loops. The second section is inspired by the concept of circular economy and 
+Among the various aspects of sustainability, waste, specifically reduction and 
+waste directive (2008/98/EC) and finally the Circular Economy Package adopted in 2015. The 
+Sustainable Cities & Towns; events that have concluded in urban sustainability initiatives in 
+strong connection with the concept of circular economy. This can be observed in some of 
+chains”, or “We will pursue the development towards a Circular Economy” (Declaration, 
+terms of Circular Economy and Value Creation for organic waste. 
+specific approach of Aalborg’s municipality. The municipality’s Sustainability strategy is 
+the sustainability strategy focus: “it combines the desire for a sustainable transition with the 
+European Union, but now through the Circular Economy Package. So far, the package is 
+legit institutions) in a normative setting. In this context, the circular economy concept would 
+actions towards circular economy but also to the supply of services -such as district heating- 
+Circular Economy and Value 
+Circular Economy is about leaving behind the linear economic model that has been around 
+context, the concept of Circular Economy is highlighted. According to the Ellen MacArthur 
+Foundation, Circular Economy  “is one that is restorative and regenerative by design and 
+materials is proposed (see Figure 3 for Circular Economy Figure). 
+Following the Circular Economy definition and principles, it is possible to link the 
+Circular Economy principles, then a restructuration of the supply chain needs to take place. 
+example, one of the characteristics of Circular Economy is that “waste does not exist, and is 
+Figure 3- Circular Economy System - Biological 
+The opportunities and mechanisms to implement the Circular Economy model in the 
+solutions and sustainability, while preserving the historic identity of the city. The project 
+Circular Economy, Value 
+developed based on the concept of circular economy and value creation (briefly explained in 
+Sustainability Goals, there is an adopted target to reduce the per capita food waste, in retail 
+Following the concept of circular economy, and value creation through cascading, 
+Ellen MacArthur Foundation. (2015). TOWARDS A CIRCULAR ECONOMY: BUSINESS 
+AND THE COMMITTEE OF THE REGIONS on the implementation of the Circular Economy 
+Personas for sustainability 
+Y. (2017) Business Model Innovation for Sustainability: Towards a Unified Perspective 
+Using exercises, content, and templates of the Business Innovation Kit and Sustainability 
+Innovation Pack we will model sustainability-oriented new business. These tools have been 
+ Participants will learn a new method for sustainability-oriented remodelling of 
+Exploring Model for the Organization of the Circular Economy 
+The circular economy (CE) is mostly studied at the firm-level leading to insights in 
+organizational and design principles. Circular Business Models can be seen as the micro 
+building blocks of the circular economy. Existing business cases, different typologies and 
+insubstantial. There is no structured insight into what constitutes a circular economy on a 
+to make a next step in understanding the circular economy: from business models to value 
+companies integrate issues and opportunities related to sustainability into business model 
+a structured approach to discovering value opportunities embedded in a sustainability-
+opportunities and learn how to integrate sustainability into business model innovation with 
+programme on sustainable business models run at the Centre for Industrial Sustainability, 
+Sustainability, 
+Organising Business Models for the Circular Economy 
+Managing Sustainability-Oriented Business Models: Frameworks, Tools, and 
+Workshop 3:  Exploring a model for the organization of the Circular Economy 
+ Small is beautiful – how to focus on resolving local sustainability issues? 
+sustainability. However, this was only the beginning; there are still many questions to be 
+range from business models in the context of Circular Economy to digitalization and how 
+Why sustainability matters 
+Given the increasing social and political demands with regard to sustainability, a generation 
+called business models for sustainability. A recent definition of a business model for 
+sustainability was proposed by Schaltegger et al. (2016, p. 6): “A business model for 
+sustainability helps describing, analysing, managing, and communicating (i) a company’s 
+among these are innovation management, sustainability management, strategic 
+business models for corporate performance in general and corporate sustainability in 
+Organising Business Models for the Circular Economy 
+Unmistakably, politics and business (re)discover the notion of a circular economy fuelled by 
+How can the sustainability impacts of new business models be measured? 
+sustainability strategies of companies? 
+Managing Sustainability-Oriented Business Models: Frameworks, Tools, and Cases  
+and assess their business models for sustainability (BMfS). The aim is to cover the following 
+to develop sustainability-oriented business models? What is the experience of the 
+2. Implementing BMfS: How can new and sustainability-oriented business models be 
+3. Operating and controlling BMfS: Once implemented, how are sustainability-oriented 
+sustainability performance requires assessment tools and frameworks. What kind of 
+to manage the business models’ sustainability performance? What are the impacts of 
+While society is paying an increasing amount of attention to a circular economy, some 
+principal elements of this broad concept still need to be explored. The circular economy is 
+society. It is only fair to ask what society at large will gain from the circular economy. Will it 
+perspective of circular economy. Conceptual as well as empirical contributions are welcome. 
+more sustainability on a regional scale.  
+How to Model Sustainable Business – The Business Innovation Kit and Sustainability 
+and Sustainability Innovation Pack in action. The toolkit facilitates modelling sustainable 
+The Circular Economy (CE) has mostly been studied at the firm-level, which has led to 
+opportunities and learn how to integrate sustainability into business model innovation with 
+programme on sustainable business models run at the Centre for Industrial Sustainability at 
+Members of the Team at Institute of Systems Sciences, Innovation and Sustainability 
+creativity, innovation, and other approaches to sustainability challenges. Journal of 
+Schaltegger, S., Lüdeke-Freund, F., Hansen, E.G. (2016). Business models for sustainability: 
+Schaltegger, S., Lüdeke-Freund, F., Hansen, E.G. (2016). Business Models for Sustainability: A 
+Stubbs, W., Cocklin, C. (2008). Conzeptualizing a “Sustainability Business Model”, 
+Business Models for the Circular Economy 
+Responsibility focuses on exploring Business Models for the Circular Economy. The Special 
+sustainability as a concept that is able to address these challenges in a comprehensive and 
+business models directly related to the concept of the circular economy. Papers from a 
+developing theoretical and conceptual insights into the Circular Economy or are based on 
+Themes on New Business Models for the Circular Economy 
+following research questions concerning business models for the Circular Economy: 
+Circular Economy both in already-established firms as well as in newly-founded 
+business models for the circular economy that have the main objective of 
+What are the mechanisms that drive successful NBMs for the Circular Economy? 
+involved in new ways of value creation and value sharing in the Circular Economy 
+How can already established NBMs for the Circular Economy be scaled-up? Which 
+How can NBMs for the Circular Economy be protected in niches to provide them 
+How are NBMs for the Circular Economy both solving and (potentially) creating 
+Circular Economy be explored and developed to reflect alternative normative and 
+the theme of the conference at which the Circular Economy is addressed in an appropriate 
+Organising Business Models for the Circular Economy  
+Managing Sustainability-Oriented Business Models: Frameworks, Tools, and Cases 
+Circular Economy: What’s Society Got to Do with It? 
+sustainability (e.g., Upward & Jones, 2016). While we would like to motivate authors to 
+corporate sustainability and triple bottomline management (e.g., Schaltegger & Burritt, 
+models for sustainability (Schaltegger et al., 2016).  
+Baumgartner, R. & Rauter, R. (2017): Strategic perspectives of corporate sustainability 
+(2017): Business Model Innovation for Sustainability: Towards a Unified Perspective for 
+sustainability beyond ecoefficiency, Ecological Economics, Vol. 48, No. 2, 173–187. 
+Figge, F. & Hahn, T. (2005): The Cost of Sustainability Capital and the Creation of Sustainable 
+Hahn, T.; Figge, F.; Pinkse, J. & Preuss, L. (2010): Trade-Offs in Corporate Sustainability: You 
+Sustainability: Differentiating Ethical Motivations, Journal of Business Ethics, online 
+Schaltegger, S.; Hansen, E. & Lüdeke-Freund, F. (2016): Business Models for Sustainability: 
+Sustainability Research, University of Graz, 
+Circular Economy Institute, Paris, France 
+Sustainability Research, University of Graz, 
+Sustainability Research, University of Graz, 
+Sustainability Research, University of Graz, 
+Sustainability Research, University of Graz, 
+Sustainability, 
+Sustainability Research, University of Graz, 
