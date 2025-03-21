@@ -15,7 +15,7 @@ they can be applied in practice and how they relate to each other. This not only
 progress, but also makes it more challenging for companies to make strategic decisions in the 
 field of circular entrepreneurship (Bocken et al., 2014; Lüdeke-Freund et al., 2019).
 
-![circular.jpg](Circular)
+![./circular.jpg](Circular)
 
 ## Features 📊
 
@@ -38,7 +38,7 @@ Ensure you have the following installed on your system:
 - `gensim` for LDA-based topic modeling
 
 ### Download of view the report
-![circular_business_model.pdf](Circular Business Model)
+![./circular_business_model.pdf](Circular Business Model)
 
 ### Installation
 1. Clone the repository:
