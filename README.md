@@ -1,4 +1,4 @@
-# Circular Business Models Analysis
+# 📕💻Circular Business Models Analysis
 
   The circular economy is increasingly cited as a necessary transition to promote 
 sustainability and reduce economic dependence on finite resources (Geissdoerfer et al., 2017; 
@@ -15,9 +15,9 @@ they can be applied in practice and how they relate to each other. This not only
 progress, but also makes it more challenging for companies to make strategic decisions in the 
 field of circular entrepreneurship (Bocken et al., 2014; Lüdeke-Freund et al., 2019).
 
-![./circular.jpg](Circular)
+![Circular ](./circular.jpg)
 
-## Features 📊
+## 📊Features 
 
 - **Thematic Analysis**:
   - Implements LDA for topic modeling to identify dominant themes across textual data.
@@ -38,7 +38,7 @@ Ensure you have the following installed on your system:
 - `gensim` for LDA-based topic modeling
 
 ### Download of view the report
-![./circular_business_model.pdf](Circular Business Model)
+![Circular Business Model](./circular_business_model.pdf)
 
 ### Installation
 1. Clone the repository:
